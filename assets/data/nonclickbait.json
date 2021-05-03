@@ -1,0 +1,659 @@
+{
+  "status": "success",
+  "code": "200",
+  "data": {
+    "news": [
+      {
+        "link": "https://bola.republika.co.id/berita/sepakbola/arena-olahraga/18/12/15/pjrrpf456-turnamen-golf-bni-masters-2018-makin-ketat",
+        "date": "2018-12-15 15:32:00",
+        "title": "Turnamen Golf BNI Masters 2018 Makin Ketat",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/hytera-perusahaan-radio-komunitas-asal-cina-mendukung-perhelatan-turnamen-_181214200448-698.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/15293951/hutan-gundul-diduga-jadi-penyebab-bencana-alam-yang-tewaskan-2-orang-di",
+        "date": "2018-12-15 15:29:00",
+        "title": "Hutan Gundul Diduga Jadi Penyebab Bencana Alam yang Tewaskan 2 Orang di Probolinggo",
+        "img": "https://asset.kompas.com/crop/69x0:768x466/177x117/data/photo/2018/12/11/2619578721.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://khazanah.republika.co.id/berita/dunia-islam/islam-nusantara/18/12/15/pjrrjr384-haedar-nashir-berdakwah-perlu-cara-empati-dan-simpatik",
+        "date": "2018-12-15 15:28:00",
+        "title": "Haedar Nashir: Berdakwah Perlu Cara Empati dan Simpatik ",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/ketua-pp-muhammadiyah-haedar-nasir-_170320220645-501.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://nasional.tempo.co/read/1155630/makna-gelar-adat-melayu-riau-yang-disandang-jokowi",
+        "date": "2018-12-15 15:27:00",
+        "title": "Makna Gelar Adat Melayu Riau yang Disandang Jokowi",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804368/804368_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/umum/18/12/15/pjrrg9453-presiden-jokowi-memulai-pembangunan-tol-pertama-di-aceh",
+        "date": "2018-12-15 15:26:00",
+        "title": "Presiden Jokowi Memulai Pembangunan Tol Pertama di Aceh",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/presiden-joko-widodo-saat-melakukan-penekanan-sirene-dan-penandatanganan-_181215152623-173.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/15230731/timses-ada-propaganda-yang-selalu-menimpakan-kesalahan-ke-jokowi",
+        "date": "2018-12-15 15:23:00",
+        "title": "Timses: Ada Propaganda yang Selalu Menimpakan Kesalahan ke Jokowi",
+        "img": "https://asset.kompas.com/crop/162x56:838x507/177x117/data/photo/2018/12/13/3766191992.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://dunia.tempo.co/read/1155629/peraih-nobel-perdamaian-nadia-murad-bangun-rumah-sakit-di-irak",
+        "date": "2018-12-15 15:21:00",
+        "title": "Peraih Nobel Perdamaian Nadia Murad Bangun Rumah Sakit di Irak",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804400/804400_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://otomotif.tempo.co/read/1155628/menang-mini-cooper-rp-12-ribu-keluarga-driver-ojek-online-heboh",
+        "date": "2018-12-15 15:20:00",
+        "title": "Menang MINI Cooper Rp 12 Ribu, Keluarga Driver Ojek Online Heboh",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804399/804399_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://metro.tempo.co/read/1155627/cerita-bus-tingkat-yang-dipakai-pawai-persija-juara",
+        "date": "2018-12-15 15:19:00",
+        "title": "Cerita Bus Tingkat yang Dipakai Pawai Persija Juara",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804398/804398_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://trendtek.republika.co.id/berita/trendtek/internet/18/12/15/pjrr26313-rayakan-ultah-mastel-gelar-festival-inovasi-digital",
+        "date": "2018-12-15 15:18:00",
+        "title": "Rayakan Ultah, Mastel Gelar Festival Inovasi Digital",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/ulang-tahun-mastel-_181215145902-360.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/15173541/markas-prabowo-sandi-pindah-ke-jateng-relawan-jokowi-makin-kreatif",
+        "date": "2018-12-15 15:17:00",
+        "title": "Markas Prabowo-Sandi Pindah ke Jateng, Relawan Jokowi Makin Kreatif",
+        "img": "https://asset.kompas.com/crop/0x0:1000x667/177x117/data/photo/2018/12/14/3925607945.JPG",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/desa-bangkit/18/12/15/pjrozn368-kesalahan-administrasi-dana-desa-tak-boleh-dikriminalisasi",
+        "date": "2018-12-15 15:16:00",
+        "title": "Kesalahan Administrasi Dana Desa tak Boleh Dikriminalisasi",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/menteri-desa-pembangunan-daerah-tertinggal-dan-transmigrasi-mendes-pdtt-_181206180106-206.png",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://gaya.tempo.co/read/1155611/mengapa-bisa-putus-pasca-tunangan-belajar-dari-denny-sumargo",
+        "date": "2018-12-15 15:15:00",
+        "title": "Mengapa Bisa Putus Pasca Tunangan? Belajar dari Denny Sumargo",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804382/804382_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://bola.republika.co.id/berita/sepakbola/liga-italia/18/12/15/pjrqv6354-spalleti-inter-milan-tidak-krisis",
+        "date": "2018-12-15 15:13:00",
+        "title": "Spalleti: Inter Milan tidak Krisis",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/luciano-spalletti-_181211204726-640.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://nasional.tempo.co/read/1155626/jokowi-sebut-riau-paling-diuntungkan-proyek-tol-trans-sumatera",
+        "date": "2018-12-15 15:09:00",
+        "title": "Jokowi Sebut Riau Paling Diuntungkan Proyek Tol Trans Sumatera",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804368/804368_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/15095541/psi-yakin-larangan-poligami-didukung-masyarakat",
+        "date": "2018-12-15 15:09:00",
+        "title": "PSI Yakin Larangan Poligami Didukung Masyarakat",
+        "img": "https://asset.kompas.com/crop/153x113:828x563/177x117/data/photo/2018/12/15/1822208147.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/korporasi/18/12/15/pjrqke384-menhub-soroti-waktu-operasional-bandara-kecil",
+        "date": "2018-12-15 15:07:00",
+        "title": "Menhub Soroti Waktu Operasional Bandara Kecil",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/menteri-perhubungan-budi-karya-sumadi-melakukan-ramp-check-jelang-_181215134059-412.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/pertanian/18/12/15/pjrqit453-kementan-libatkan-komisi-ahli-susun-kebijakan-pakan",
+        "date": "2018-12-15 15:06:00",
+        "title": "Kementan Libatkan Komisi Ahli Susun Kebijakan Pakan",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/direktur-pakan-sri-widayati-dalam-pertemuan-komisi-ahli-pakan-_181215150616-672.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://dunia.tempo.co/read/1155623/australia-akui-yerusalem-barat-sebagai-ibu-kota-israel",
+        "date": "2018-12-15 15:04:00",
+        "title": "Australia Akui Yerusalem Barat Sebagai Ibu Kota Israel",
+        "img": "https://statik.tempo.co/data/2018/10/22/id_744087/744087_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://pilpres.tempo.co/read/1155622/tkn-jokowi-minta-netralitas-penyelenggara-pemilu-diawasi",
+        "date": "2018-12-15 15:00:00",
+        "title": "TKN Jokowi Minta Netralitas Penyelenggara Pemilu Diawasi",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804348/804348_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://dunia.tempo.co/read/1155614/pembunuh-jamal-khashoggi-saya-tahu-cara-memotong",
+        "date": "2018-12-15 15:00:00",
+        "title": "Pembunuh Jamal Khashoggi: Saya Tahu Cara Memotong",
+        "img": "https://statik.tempo.co/data/2018/11/22/id_798854/798854_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/daerah/18/12/15/pjrooc368-200-ha-sawah-di-aceh-diserang-keong",
+        "date": "2018-12-15 15:00:00",
+        "title": "200 Ha Sawah di Aceh Diserang Keong",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/seorang-warga-menunjukkan-keong-emas-yang-menjadi-hama-padi-_120712160440-297.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/14582871/polisi-tangkap-1-pelaku-perusakan-atribut-partai-demokrat-di-pekanbaru",
+        "date": "2018-12-15 14:58:00",
+        "title": "Polisi Tangkap 1 Pelaku Perusakan Atribut Partai Demokrat di Pekanbaru",
+        "img": "https://asset.kompas.com/crop/0x66:1000x733/177x117/data/photo/2018/12/15/2326071505.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/14572871/jpo-tosari-dibongkar-para-pejalan-kaki-lewat-pelican-crossing",
+        "date": "2018-12-15 14:57:00",
+        "title": "JPO Tosari Dibongkar, Para Pejalan Kaki Lewat Pelican Crossing",
+        "img": "https://asset.kompas.com/crop/100x233:900x767/177x117/data/photo/2018/12/15/2396738327.jpeg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.tempo.co/read/1155621/polisi-tangkap-hs-terduga-perusak-bendera-partai-demokrat-di-riau",
+        "date": "2018-12-15 14:56:00",
+        "title": "Polisi Tangkap HS Terduga Perusak Bendera Partai Demokrat di Riau",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804325/804325_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/14563241/penjelasan-polri-soal-penangkapan-lima-pelaku-pengeroyokan-anggota-tni",
+        "date": "2018-12-15 14:56:00",
+        "title": "Penjelasan Polri soal Penangkapan Lima Pelaku Pengeroyokan Anggota TNI",
+        "img": "https://asset.kompas.com/crop/0x83:1000x750/177x117/data/photo/2018/12/14/1439412041.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/pertanian/18/12/15/pjrpzn453-barantan-gandeng-tnipolri-awasi-zona-rawan-penyelundupan",
+        "date": "2018-12-15 14:54:00",
+        "title": "Barantan Gandeng TNI-POLRI Awasi Zona Rawan Penyelundupan",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/barantan-menggandeng-instansi-terkait-dalam-pengawasan-dengan-bareskrim-polri-_181215145450-863.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/umum/18/12/15/pjrpwr354-gubernur-riau-ingat-tanah-ingat-pak-jokowi",
+        "date": "2018-12-15 14:53:00",
+        "title": "Gubernur Riau: Ingat Tanah, Ingat Pak Jokowi",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/gubernur-riau-definitif-wan-thamrin-hasyim-kiri-dan-gubernur-_181210191042-376.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/14533391/rs-siloam-purwakarta-terima-predikat-paripurna",
+        "date": "2018-12-15 14:53:00",
+        "title": "RS Siloam Purwakarta Terima Predikat Paripurna",
+        "img": "https://asset.kompas.com/crop/0x71:800x471/177x117/data/photo/2018/12/09/4242232533.JPG",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://internasional.republika.co.id/berita/internasional/abc-australia-network/18/12/15/pjrpss370-partai-buruh-keputusan-australia-soal-israel-berisiko",
+        "date": "2018-12-15 14:50:00",
+        "title": "Partai Buruh: Keputusan Australia Soal Israel Berisiko",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/bendera-australia-_160903023242-303.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/14501081/sby-pungut-sendiri-beberapa-atribut-partai-demokrat-yang-sudah-rusak",
+        "date": "2018-12-15 14:50:00",
+        "title": "SBY Pungut Sendiri Beberapa Atribut Partai Demokrat yang Sudah Rusak",
+        "img": "https://asset.kompas.com/crop/18x0:861x562/177x117/data/photo/2018/12/15/13381081182.png",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://metro.tempo.co/read/1155620/hotman-paris-tolak-permohonan-ortu-pelaku-pengeroyokan-tni",
+        "date": "2018-12-15 14:48:00",
+        "title": "Hotman Paris Tolak Permohonan Ortu Pelaku Pengeroyokan TNI ",
+        "img": "https://statik.tempo.co/data/2018/12/14/id_804223/804223_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.tempo.co/read/1155619/psi-poligami-lebih-banyak-mudarat-ketimbang-manfaat",
+        "date": "2018-12-15 14:46:00",
+        "title": "PSI: Poligami Lebih Banyak Mudarat Ketimbang Manfaat",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804394/804394_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://metro.tempo.co/read/1155618/the-jakmania-paksa-masuk-balai-kota-beberapa-warga-dievakuasi",
+        "date": "2018-12-15 14:46:00",
+        "title": "The Jakmania Paksa Masuk Balai Kota, Beberapa Warga Dievakuasi",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804393/804393_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/pertanian/18/12/15/pjrplo453-ifad-danai-pengembangan-wirausaha-muda-pertanian",
+        "date": "2018-12-15 14:46:00",
+        "title": "IFAD Danai Pengembangan Wirausaha Muda Pertanian",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/sekretaris-jenderal-kementerian-pertanian-syukur-iwantoro-saat-menghadiri-sidang-_181215144625-443.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://bola.republika.co.id/berita/sepakbola/liga-indonesia/18/12/15/pjrpju354-ketua-jakmania-persija-juara-settingan-allah-swt",
+        "date": "2018-12-15 14:45:00",
+        "title": "Ketua Jakmania: Persija Juara 'Setting-an' Allah SWT",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/ribuan-the-jakmania-berpesta-pora-usai-persija-jakarta-menjadi-_181209180716-445.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/korporasi/18/12/15/pjroe9368-pelindo-ii-kembangkan-pelabuhan-di-jambi",
+        "date": "2018-12-15 14:42:00",
+        "title": "Pelindo II Kembangkan Pelabuhan di Jambi",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/kapal-tongkang-pembawa-batu-bara-melintasi-aliran-sungai-batanghari-_180729151621-953.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://dunia.tempo.co/read/1155606/kasus-huawei-menlu-amerika-bakal-bebaskan-2-warga-kanada-di-cina",
+        "date": "2018-12-15 14:41:00",
+        "title": "Kasus Huawei, Menlu Amerika Bakal Bebaskan 2 Warga Kanada di Cina",
+        "img": "https://statik.tempo.co/data/2018/08/05/id_723975/723975_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://travel.tempo.co/read/1155613/libur-akhir-tahun-susur-3-pantai-di-great-ocean-road-australia",
+        "date": "2018-12-15 14:40:00",
+        "title": "Libur Akhir Tahun, Susur  3 Pantai di Great Ocean Road Australia",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804391/804391_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/jabodetabek-nasional/18/12/15/pjrpb2384-petugas-dlh-bersihkan-sampah-usai-pawai-persija",
+        "date": "2018-12-15 14:40:00",
+        "title": "Petugas DLH Bersihkan Sampah Usai Pawai Persija",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/0.70070600-1518947521-830-556.jpeg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/14371421/5-fakta-baru-pesta-seks-di-yogyakarta-menonton-suami-istri-bersenggama",
+        "date": "2018-12-15 14:37:00",
+        "title": "5 Fakta Baru Pesta Seks di Yogyakarta, Menonton Suami Istri Bersenggama hingga 2 Orang Jadi Tersangka ",
+        "img": "https://asset.kompas.com/crop/0x0:780x390/177x117/data/photo/2013/10/25/1206108shutterstock-97473167780x390.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/politik/18/12/15/pjrp57354-polisi-tangkap-perusak-atribut-partai-demokrat-di-pekanbaru",
+        "date": "2018-12-15 14:36:00",
+        "title": "Polisi Tangkap Perusak Atribut Partai Demokrat di Pekanbaru",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/borgol-ilustrasi-_180116171039-251.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/pertanian/18/12/15/pjrp1l453-kementan-petakan-tantangan-hadapi-revolusi-industri-40",
+        "date": "2018-12-15 14:34:00",
+        "title": "Kementan Petakan Tantangan Hadapi Revolusi Industri 4.0",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/kepala-biro-humas-dan-informasi-publik-kementerian-pertanian-kementan-_181215143423-242.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://seleb.tempo.co/read/1155612/ibunda-angbeen-rishi-ragukan-niat-baik-adly-fairuz",
+        "date": "2018-12-15 14:32:00",
+        "title": "Ibunda Angbeen Rishi Ragukan Niat Baik Adly Fairuz",
+        "img": "https://statik.tempo.co/data/2018/11/25/id_799481/799481_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://bola.republika.co.id/berita/sepakbola/liga-spanyol/18/12/15/pjroum370-icardi-perpanjang-kontrak-sampai-juni-2023",
+        "date": "2018-12-15 14:30:00",
+        "title": "Icardi Perpanjang Kontrak Sampai Juni 2023",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/mauro-icardi-_181019154831-618.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/14252531/jakmania-bubar-medan-merdeka-selatan-kembali-dibuka",
+        "date": "2018-12-15 14:25:00",
+        "title": "Jakmania Bubar, Medan Merdeka Selatan Kembali Dibuka",
+        "img": "https://asset.kompas.com/crop/60x0:905x563/177x117/data/photo/2018/12/15/3556992643.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/korporasi/18/12/15/pjrnp0368-akuisisi-holcim-semen-indonesia-perluas-pangsa-pasar",
+        "date": "2018-12-15 14:24:00",
+        "title": "Akuisisi Holcim, Semen Indonesia Perluas Pangsa Pasar",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/181121131604-812.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/14244131/gubernur-riau-ingat-sertifikat-tanah-ingat-jokowi",
+        "date": "2018-12-15 14:24:00",
+        "title": "Gubernur Riau: Ingat Sertifikat Tanah, Ingat Jokowi",
+        "img": "https://asset.kompas.com/crop/0x76:1000x742/177x117/data/photo/2018/12/15/2269534706.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/pertanian/18/12/15/pjrohn453-kementan-tetapkan-bastp-wahana-hilirisasi-produk-penelitian",
+        "date": "2018-12-15 14:22:00",
+        "title": "Kementan Tetapkan BASTP Wahana Hilirisasi Produk Penelitian",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/kepala-balai-besar-pengkajian-dan-pengembangan-teknologi-pertanian-bbp2tp-_181215142226-605.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://metro.tempo.co/read/1155610/polri-dan-tni-kerja-bhakti-polsek-ciracas-usai-insiden-pembakaran",
+        "date": "2018-12-15 14:20:00",
+        "title": "Polri dan TNI Kerja Bhakti Polsek Ciracas Usai Insiden Pembakaran",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804389/804389_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/daerah/18/12/15/pjroec354-pangdam-tak-ada-warga-sipil-tertembak-di-nduga-papua",
+        "date": "2018-12-15 14:20:00",
+        "title": "Pangdam: Tak Ada Warga Sipil Tertembak di Nduga Papua",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/181205191121-492.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/14202351/pasukan-oranye-bersihkan-sisa-pawai-kemenangan-persija-di-sudirman",
+        "date": "2018-12-15 14:20:00",
+        "title": "Pasukan Oranye Bersihkan Sisa Pawai Kemenangan Persija di Sudirman",
+        "img": "https://asset.kompas.com/crop/1x31:1000x697/177x117/data/photo/2018/12/15/4185548068.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://republika.co.id/berita/kolom/wacana/18/12/15/pjrocz385-kisah-percepatan-generasi-penerus-tni",
+        "date": "2018-12-15 14:19:00",
+        "title": "Kisah Percepatan Generasi Penerus TNI",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/menko-polhukam-wiranto-kanan-mendapat-ucapan-selamat-dari-mantan-_160728132931-672.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://metro.tempo.co/read/1155608/dangdut-dan-keroncong-meriahkan-pawai-persija-jakarta-juara",
+        "date": "2018-12-15 14:16:00",
+        "title": "Dangdut dan Keroncong Meriahkan Pawai Persija Jakarta Juara ",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804369/804369_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.tempo.co/read/1155609/kubu-prabowo-minta-pemantau-internasional-awasi-pilpres-2019",
+        "date": "2018-12-15 14:15:00",
+        "title": "Kubu Prabowo Minta Pemantau Internasional Awasi Pilpres 2019",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804348/804348_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.republika.co.id/berita/nasional/politik/18/12/15/pjrnxi354-bawaslu-catat-192129-laporan-dan-pelanggaran-kampanye",
+        "date": "2018-12-15 14:10:00",
+        "title": "Bawaslu Catat 192.129 Laporan dan Pelanggaran Kampanye",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/anggota-bawaslu-fritz-edward-siregar-di-kompleks-parlemen-senayan-_180828193218-585.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://republika.co.id/berita/ekonomi/pertanian/18/12/15/pjrnx5453-pengamat-tegaskan-data-pangan-bukan-tanggung-jawab-kementan",
+        "date": "2018-12-15 14:10:00",
+        "title": "Pengamat Tegaskan Data Pangan Bukan Tanggung Jawab Kementan",
+        "img": "https://static.republika.co.id/uploads/images/widget_box/ilustrasi-sawah-_181215140957-607.jpg",
+        "media": "REPUBLIKA"
+      },
+      {
+        "link": "https://metro.tempo.co/read/1155605/pawai-persija-juara-the-jakmania-teriak-minta-stadion-ke-anies",
+        "date": "2018-12-15 14:06:00",
+        "title": "Pawai Persija Juara, The Jakmania Teriak Minta Stadion ke Anies",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804370/804370_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://dunia.tempo.co/read/1155600/santa-claus-menyelam-baca-surat-hingga-membagikan-rumah-gratis",
+        "date": "2018-12-15 14:05:00",
+        "title": "Santa Claus Menyelam, Baca Surat hingga Membagikan Rumah Gratis",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804387/804387_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/14050871/balai-kota-dipenuhi-jakmania-anies-panjat-pagar",
+        "date": "2018-12-15 14:05:00",
+        "title": "Balai Kota Dipenuhi Jakmania, Anies Panjat Pagar",
+        "img": "https://asset.kompas.com/crop/39x0:714x450/177x117/data/photo/2018/12/15/372439853.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/14033381/psi-larangan-poligami-tidak-melanggar-ham",
+        "date": "2018-12-15 14:03:00",
+        "title": "PSI: Larangan Poligami Tidak Melanggar HAM",
+        "img": "https://asset.kompas.com/crop/0x0:780x390/177x117/data/photo/2014/03/21/2027012ilustrasi-poligami780x390.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://otomotif.tempo.co/read/1155584/pulau-sumatera-diklaim-menjanjikan-untuk-mitsubishi-fuso-fighter",
+        "date": "2018-12-15 14:00:00",
+        "title": "Pulau Sumatera Diklaim Menjanjikan untuk Mitsubishi Fuso Fighter",
+        "img": "https://statik.tempo.co/data/2018/03/01/id_688063/688063_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://internasional.kompas.com/read/2018/12/15/13572431/8-tradisi-natal-unik-keluarga-kerajaan-inggris",
+        "date": "2018-12-15 13:57:00",
+        "title": "8 Tradisi Natal Unik Keluarga Kerajaan Inggris ",
+        "img": "https://asset.kompas.com/crop/0x0:789x526/177x117/data/photo/2018/12/15/987366589.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/13551111/perludem-3-bulan-kampanye-isu-provokatif-lebih-banyak-beredar-dibanding",
+        "date": "2018-12-15 13:55:00",
+        "title": "Perludem: 3 Bulan Kampanye, Isu Provokatif Lebih Banyak Beredar Dibanding Program",
+        "img": "https://asset.kompas.com/crop/0x83:1000x750/177x117/data/photo/2018/05/12/4138320542.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/13512061/panggung-hiburan-selesai-jakmania-di-balai-kota-bubar",
+        "date": "2018-12-15 13:51:00",
+        "title": "Panggung Hiburan Selesai, Jakmania di Balai Kota Bubar",
+        "img": "https://asset.kompas.com/crop/91x0:934x562/177x117/data/photo/2018/12/15/1123049946.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/13475791/jokowi-mengaku-malu-saat-bencana-asap-disinggung-dua-kali-di-ktt-asean",
+        "date": "2018-12-15 13:47:00",
+        "title": "Jokowi Mengaku Malu Saat Bencana Asap Disinggung Dua Kali di KTT ASEAN",
+        "img": "https://asset.kompas.com/crop/0x55:1000x722/177x117/data/photo/2018/12/15/3990392976.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/13453741/terima-gelar-dari-masyarakat-riau-jokowi-ingat-saat-dilantik-jadi-presiden",
+        "date": "2018-12-15 13:45:00",
+        "title": "Terima Gelar dari Masyarakat Riau, Jokowi Ingat Saat Dilantik Jadi Presiden",
+        "img": "https://asset.kompas.com/crop/0x55:1000x722/177x117/data/photo/2018/12/15/3990392976.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://regional.kompas.com/read/2018/12/15/13300011/fakta-di-balik-pembongkaran-5-makam-di-gorontalo-utara-diduga-terkait",
+        "date": "2018-12-15 13:30:00",
+        "title": "Fakta di Balik Pembongkaran 5 Makam di Gorontalo Utara, Diduga Terkait Pilkades hingga Jenazah Digotong Lewati Jalan Desa ",
+        "img": "https://asset.kompas.com/crop/0x0:780x390/177x117/data/photo/2014/02/24/1827239Ilustrasi-Makam780x390.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/13232561/6-fakta-di-balik-mini-cooper-seharga-rp-12000-dari-harbolnas-2018",
+        "date": "2018-12-15 13:23:00",
+        "title": "6 Fakta di Balik Mini Cooper Seharga Rp 12.000 dari Harbolnas 2018",
+        "img": "https://asset.kompas.com/crop/161x0:752x394/177x117/data/photo/2018/12/11/3320683480.JPG",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/13101761/monumen-palagan-ambarawa-dan-baret-hijau-infanteri",
+        "date": "2018-12-15 13:10:00",
+        "title": "Monumen Palagan Ambarawa dan Baret Hijau Infanteri...",
+        "img": "https://asset.kompas.com/crop/111x112:879x624/177x117/data/photo/2018/12/15/474995316.JPG",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://megapolitan.kompas.com/read/2018/12/15/13015081/jakmania-mana-mana-mana-stadionnya",
+        "date": "2018-12-15 13:01:00",
+        "title": "Jakmania: Mana, Mana, Mana Stadionnya?",
+        "img": "https://asset.kompas.com/crop/4x4:658x440/177x117/data/photo/2018/12/15/3994356247.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102615-lemahnya-mental-pemain-jadi-sebab-kegagalan-inter-milan",
+        "date": "2018-12-12 08:46:00",
+        "title": "Lemahnya Mental Pemain Jadi Sebab Kegagalan Inter Milan",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/12/5c10628f50cd4-pertandingan-inter-milan-vs-psv-eindhoven_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/digital/digilife/1102616-cara-facebook-jaga-pilpres-2019-akun-dan-berita-palsu-jadi-target",
+        "date": "2018-12-12 08:40:00",
+        "title": "Cara Facebook Jaga Pilpres 2019, Akun dan Berita Palsu Jadi Target",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/12/5c10637401b51-facebook-press-circle-look-back-at-2018_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/berita/metro/1102613-siang-nanti-jakarta-diprediksi-bakal-diguyur-hujan-dan-petir",
+        "date": "2018-12-12 08:23:00",
+        "title": "Siang Nanti Jakarta Diprediksi Bakal Diguyur Hujan dan Petir",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2013/02/06/191258_hujan-lebat-kembali-guyur-jakarta_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102610-juergen-klopp-puji-penampilan-luar-biasa-pemain-liverpool",
+        "date": "2018-12-12 08:00:00",
+        "title": "Juergen Klopp Puji Penampilan Luar Biasa Pemain Liverpool",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/03/5c045a9e34830-manajer-liverpool-juergen-klopp_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/digital/digilife/1102611-indosat-ragu-ikut-lelang-frekuensi-eks-perusahaan-milik-dirjen-aptika",
+        "date": "2018-12-12 07:58:00",
+        "title": "Indosat Ragu Ikut Lelang Frekuensi Eks Perusahaan Milik Dirjen Aptika",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/07/24/5b56c21615e09-iot-connect-indosat-ooredoo_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102612-bikin-inter-milan-gigit-jari-misi-sulit-tottenham-akhirnya-tuntas",
+        "date": "2018-12-12 07:57:00",
+        "title": "Bikin Inter Milan Gigit Jari, Misi Sulit Tottenham Akhirnya Tuntas",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/12/5c105a7815dce-pemain-tottenham-hotspur-merayakan-hasil-imbang-di-markas-barcelona_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/showbiz/gosip/1102609-arie-untung-dan-ernest-prakasa-ribut-di-sosmed-gara-gara-demo-malaysia",
+        "date": "2018-12-12 07:47:00",
+        "title": "Arie Untung dan Ernest Prakasa Ribut di Sosmed Gara-gara Demo Malaysia",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2016/07/28/397992_arie-untung_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102608-kemenangan-liverpool-atas-napoli-harus-dibayar-mahal-mu-pantas-senang",
+        "date": "2018-12-12 07:42:00",
+        "title": "Kemenangan Liverpool atas Napoli harus Dibayar Mahal, MU Pantas Senang",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/12/5c10512e6a7e1-pertandingan-liverpool-vs-napoli_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102607-hasil-lengkap-liga-champions-rabu-12-desember-2018",
+        "date": "2018-12-12 07:39:00",
+        "title": "Hasil Lengkap Liga Champions, Rabu 12 Desember 2018",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/11/27/5bfd64c4320eb-pertadingan-liga-champions-antara-liverpook-kontra-paris-saint-germain-psg_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/digital/digilife/1102606-alfamart-jor-joran-kembangkan-teknologi-lewat-ekosistem-wizphone",
+        "date": "2018-12-12 07:05:00",
+        "title": "Alfamart Jor-joran Kembangkan Teknologi Lewat Ekosistem Wizphone",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/11/5c0f8a1b17957-penandatanganan-mou-ekosistem-wizphone_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/berita/metro/1102605-dirusak-dan-dibakar-massa-polsek-ciracas-dijaga-ketat",
+        "date": "2018-12-12 07:02:00",
+        "title": "Dirusak dan Dibakar Massa, Polsek Ciracas Dijaga Ketat",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/12/5c102a04cf177-mapolsek-ciracas-dijaga-ketat-oleh-provost-dan-aparat-kepolisian_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102553-berebut-gengsi-di-fase-grup-liga-champions",
+        "date": "2018-12-12 06:50:00",
+        "title": "Berebut Gengsi di Fase Grup Liga Champions",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/01/5c016c990a47e-para-pemain-juventus-merayakan-gol-mario-mandzukic-kedua-dari-kanan_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/digital/piranti/1102604-ponsel-wizphone-wp006-dibanderol-rp99-ribu-catat-tanggal-penjualannya",
+        "date": "2018-12-12 06:41:00",
+        "title": "Ponsel Wizphone WP006 Dibanderol Rp99 Ribu, Catat Tanggal Penjualannya",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/04/5c065d1854010-wizphone-dengan-google-assistant-seharga-rp99-ribu_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/gaya-hidup/kesehatan-intim/1102512-1-dari-3-pekerja-di-indonesia-alami-gangguan-mental",
+        "date": "2018-12-12 06:40:00",
+        "title": "1 Dari 3 Pekerja di Indonesia Alami Gangguan Mental",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2015/10/21/343662_ilustrasi-stres_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/gaya-hidup/parenting/1102597-waspada-ternyata-gadget-sebabkan-anak-sulit-bicara",
+        "date": "2018-12-12 06:19:00",
+        "title": "Waspada, Ternyata Gadget Sebabkan Anak Sulit Bicara",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/11/14/5bebf47800f16-ilustrasi-anak-bermain-gadget-atau-tablet_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/gaya-hidup/kuliner/1102499-ratu-inggris-bikin-daftar-pantangan-makanan-untuk-meghan-markle",
+        "date": "2018-12-12 06:16:00",
+        "title": "Ratu Inggris Bikin Daftar Pantangan Makanan untuk Meghan Markle",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/06/28/5b34579476135-meghan-markle-pangeran-harry-dan-ratu-elizabeth_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/blog/kesehatan/1102452-8-makanan-enak-yang-bikin-gula-darah-tinggi-dan-terus-naik",
+        "date": "2018-12-12 06:16:00",
+        "title": "8 Makanan Enak yang Bikin gula Darah Tinggi dan Terus Naik",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2017/01/13/58784dc545c01-ilustrasi-diabetes_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/showbiz/film/1102603-the-favorite-raih-nominasi-terbanyak-di-critics-choice-awards-2018",
+        "date": "2018-12-12 06:15:00",
+        "title": "The Favorite Raih Nominasi Terbanyak di Critics' Choice Awards 2018",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/12/5c1041fe91e14-the-favorite_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/bola/bola-sejagat/1102602-atletico-madrid-kesulitan-menghadapi-club-bruges",
+        "date": "2018-12-12 06:04:00",
+        "title": "Atletico Madrid Kesulitan Menghadapi Club Bruges",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/11/29/5bff987c0c900-pemain-atletico-madrid-rayakan-keberhasilan-lolos-ke-babak-16-besar_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/digital/digilife/1102508-surat-tuhan-albert-einstein-dihargai-rp42-miliar-apa-isinya",
+        "date": "2018-12-12 06:04:00",
+        "title": "Surat Tuhan Albert Einstein Dihargai Rp42 Miliar, Apa Isinya?",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2015/01/22/291057_kutipan-dari-albert-einstein-_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/showbiz/gosip/1102571-minder-di-bully-warganet-curhat-anak-ussy-bikin-hati-pilu",
+        "date": "2018-12-12 06:00:00",
+        "title": "Minder Di-bully Warganet, Curhat Anak Ussy Bikin Hati Pilu",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/11/5c0f925774fbb-ussy-sulistiawaty_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/berita/metro/1102600-polsek-ciracas-diserang-kapolda-pelayanan-warga-normal",
+        "date": "2018-12-12 06:00:00",
+        "title": "Polsek Ciracas Diserang, Kapolda: Pelayanan Warga Normal",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/09/25/5baa004c97cc0-kapolda-metro-jaya-irjen-idham-azis-tengah-bersama-kabid-humas-polda-metro-jay_325_183.jpg",
+        "media": "VIVA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "code": "200",
+  "data": {
+    "news": [
+      {
+        "link": "https://nasional.tempo.co/read/1155617/bendera-demokrat-dirusak-di-pekanbaru-sby-ini-menyayat-hati",
+        "date": "2018-12-15 14:42:00",
+        "title": "Bendera Demokrat Dirusak di Pekanbaru, SBY: Ini Menyayat Hati",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804325/804325_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://tekno.tempo.co/read/1155616/asus-zenfone-max-pro-m2-mulai-dijual-offline-di-12-toko-ini",
+        "date": "2018-12-15 14:39:00",
+        "title": "ASUS ZenFone Max Pro M2 Mulai Dijual Offline di 12 Toko Ini",
+        "img": "https://statik.tempo.co/data/2018/12/11/id_803254/803254_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://nasional.kompas.com/read/2018/12/15/14281381/video-hoaks-dan-fakta-pekan-ini-11-15-desember-2018",
+        "date": "2018-12-15 14:28:00",
+        "title": "VIDEO: Hoaks dan Fakta Pekan Ini, 11 - 15 Desember 2018",
+        "img": "https://asset.kompas.com/crop/126x17:1000x600/177x117/data/photo/2018/08/04/2328026165.jpg",
+        "media": "KOMPAS"
+      },
+      {
+        "link": "https://gaya.tempo.co/read/1155607/batal-nikahi-dita-soedarjo-ini-postingan-denny-sumargo-di-ig",
+        "date": "2018-12-15 14:15:00",
+        "title": "Batal Nikahi Dita Soedarjo, Ini Postingan Denny Sumargo di IG",
+        "img": "https://statik.tempo.co/data/2018/12/15/id_804381/804381_400.jpg",
+        "media": "TEMPO"
+      },
+      {
+        "link": "https://www.viva.co.id/otomotif/1102620-diuji-jalan-ini-hasil-konsumsi-bbm-b20-vs-solar-biasa",
+        "date": "2018-12-12 08:52:00",
+        "title": "Diuji Jalan, Ini Hasil Konsumsi BBM B20 Vs Solar Biasa",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/09/03/5b8d3c1d40c79-dirut-pertamina-sidak-penggunaan-b20_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/blog/kesehatan/1102472-asma-sering-mengganggu-tidur-begini-cara-mengatasinya",
+        "date": "2018-12-12 07:30:00",
+        "title": "Asma Sering Mengganggu Tidur? Begini Cara Mengatasinya",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/12/11/5c0f8680c4c34-asma-ganggu-tidur-begini-agar-tidur-tetap-nyenyak-meski-punya-asma_325_183.jpg",
+        "media": "VIVA"
+      },
+      {
+        "link": "https://www.viva.co.id/gaya-hidup/parenting/1102535-kecerdasan-emosi-kunci-sukses-anak-begini-cara-melatihnya",
+        "date": "2018-12-12 07:00:00",
+        "title": "Kecerdasan Emosi Kunci Sukses Anak, Begini Cara Melatihnya",
+        "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2016/08/02/398838_ilustrasi-balita_325_183.jpg",
+        "media": "VIVA"
+      }
+    ]
+  }
+}

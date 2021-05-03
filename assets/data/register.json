@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "code": "201",
+  "message": "User created succesfully",
+  "data": {
+    "username": "bagas",
+    "x-api-key": "XYKzQLGstEUazFbZM6jtZxvUu7nY4nVRzDsuLzcFKp7D0EyKdA"
+  }
+}

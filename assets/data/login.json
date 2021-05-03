@@ -1,0 +1,6 @@
+{
+  "status": "success",
+  "code": "200",
+  "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NDQ4NjQwMzcsIm5iZiI6MTU0NDg2NDAzNywianRpIjoiNjg2YWYxZjgtM2U4NC00NjNiLTlmY2UtMGFmNzZjM2VjOWU3IiwiZXhwIjoxNTQ0ODY0MDk3LCJpZGVudGl0eSI6ImJhZ2FzIiwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.zI0e3hwHdLsDIOq13BOOXMKFR_rL1cbTZws6LYxEkig",
+  "username": "bagas"
+}
